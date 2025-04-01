@@ -162,13 +162,6 @@ This project is a great hands-on example of how to use **Apache Spark** for real
 
 ---
 
-## 🙋 Support
-
-For questions, reach out to your instructor or TA.
-
-
-
----
 
 ## 🧭 How It Works – Approach
 
